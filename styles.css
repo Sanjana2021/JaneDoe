@@ -1,0 +1,33 @@
+
+body {
+  background-color: #f2edd7;
+  }
+
+hr {
+background-color: #f2edd7;
+  border-style: dotted;
+  border-color: #3a6351;
+  border-width: 10px;
+  border-bottom-style: none;
+  height: 0;
+  width: 5%;
+}
+
+h1
+{
+  color: #3a6351;
+  font-family: Monospace;
+}
+p
+{
+  font-family: Monospace;
+}
+h3
+{
+  color: #393232;
+}
+td
+{
+  font-family: Monospace;
+  font-size: 17px
+}
